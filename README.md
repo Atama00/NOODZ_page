@@ -1,6 +1,6 @@
 # HTML & CSS Practice
 
-### Working with Flexbox and CSS Grid.
+### Working with positioning.
 
 Page link: [site](https://atama00.github.io/NOODZ_page/)
 
